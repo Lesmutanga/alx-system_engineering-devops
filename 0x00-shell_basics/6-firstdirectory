@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l
+mkdir /tmp/my_first_directory/
